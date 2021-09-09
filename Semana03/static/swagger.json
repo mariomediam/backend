@@ -5,10 +5,10 @@
     "title": "Reposteria Flask",
     "contact": {}
   },
-  "host": "reposteria-mario.herokuapp.com,
+  "host": "reposteria-mario.herokuapp.com",
   "basePath": "/",
   "schemes": [
-    "http"
+    "https"
   ],
   "consumes": [
     "application/json"
